@@ -1,0 +1,75 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,10000_png,100002_png,10001_png,10002_png,10003_png,10004_png,10005_png,10006_png,10007_png,BG2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "10000_png",
+			"type": "image",
+			"url": "assets/待机/10000.png"
+		},
+		{
+			"name": "100002_png",
+			"type": "image",
+			"url": "assets/跑步/10000.png"
+		},
+		{
+			"name": "10001_png",
+			"type": "image",
+			"url": "assets/跑步/10001.png"
+		},
+		{
+			"name": "10002_png",
+			"type": "image",
+			"url": "assets/跑步/10002.png"
+		},
+		{
+			"name": "10003_png",
+			"type": "image",
+			"url": "assets/跑步/10003.png"
+		},
+		{
+			"name": "10004_png",
+			"type": "image",
+			"url": "assets/跑步/10004.png"
+		},
+		{
+			"name": "10005_png",
+			"type": "image",
+			"url": "assets/跑步/10005.png"
+		},
+		{
+			"name": "10006_png",
+			"type": "image",
+			"url": "assets/跑步/10006.png"
+		},
+		{
+			"name": "10007_png",
+			"type": "image",
+			"url": "assets/跑步/10007.png"
+		},
+		{
+			"name": "BG2_png",
+			"type": "image",
+			"url": "assets/BG2.png"
+		}
+	]
+}
